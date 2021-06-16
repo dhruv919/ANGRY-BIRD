@@ -1,2 +1,2 @@
-# ANGRY-BIRD
-MADE BY DHRUV GUPTA
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
